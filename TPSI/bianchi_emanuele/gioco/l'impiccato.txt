@@ -1,0 +1,13 @@
+cremi e spiegami passo passo la creazione del gioco l'impiccato in modo facile in javascript:
+	deve contenere:
+		lettere come se fossero una tastiera
+		no parole accentate
+		no parole apostrofate
+		sfondo di lavagna
+		scritte come se fossero fatte a gesso
+		parole random
+		modalità uno o due giocatore/i
+			se uno: il computer mette la parola random e il giocatore la deve indovinare
+			se due un giocatore mette la parola e l'altro la deve indovinare
+
+il lavoro dev'essere fatto da uno studente con le basi di JS 
